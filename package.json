@@ -1,0 +1,22 @@
+{
+  "name": "required",
+  "version": "1.0.0",
+  "description": "Command line application to allow users to create flashcards",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjinchang/HW-11-Flashcard-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjinchang/HW-11-Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/benjinchang/HW-11-Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  }
+}
